@@ -23,10 +23,9 @@ Built in **Power BI** with supporting SQL/Python preprocessing.
 - Python (EDA, preprocessing)
 
 ## 📂 Files
-- `CreditCard_Analysis.pbix` → Power BI dashboard file
-- `CreditCard_Analysis.pdf` → PDF export for quick viewing
-- `assets/` → Screenshots of dashboard pages
-- `data/` → Cleaned dataset (sample)
+- `Credit Card Transaction Analysis.pbix` → Power BI dashboard file
+- `Credit Card Transaction Analysis.pdf` → PDF export for quick viewing
+- Credit Card Transaction Analysis Dax Formula
 
 ## 📬 Connect
 - LinkedIn: [linkedin.com/in/rachana-wagh-514a82146]
