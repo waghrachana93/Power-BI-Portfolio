@@ -29,5 +29,5 @@ Built in **Power BI** with supporting SQL/Python preprocessing.
 - `data/` → Cleaned dataset (sample)
 
 ## 📬 Connect
-- LinkedIn: [Your Profile Link]
+- LinkedIn: [linkedin.com/in/rachana-wagh-514a82146]
 
