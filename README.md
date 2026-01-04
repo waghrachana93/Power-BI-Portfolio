@@ -1,7 +1,7 @@
 # 💳 Credit Card Transaction Analysis Dashboard
 
 ## 📌 Project Overview
-This project analyzes **55M AED in credit card revenue** across customer segments, card categories, and transaction types.  
+This project analyzes **55M in credit card revenue** across customer segments, card categories, and transaction types.  
 Built in **Power BI** with supporting SQL/Python preprocessing.
 
 ## 🎯 Objectives
